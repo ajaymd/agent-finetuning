@@ -84,3 +84,8 @@ healthcare-agent-finetuning-workshop/
 ├── .gitignore
 └── README.md
 ```
+
+## Team personas and stories
+
+- [personas/](personas/README.md): the Sr AI/ML Engineer, Data Engineer and AI PM who build the assistant together
+- [stories/react-ui-and-deployment.md](stories/react-ui-and-deployment.md): the React UI story and deployment plan, run as an AI-DLC week
